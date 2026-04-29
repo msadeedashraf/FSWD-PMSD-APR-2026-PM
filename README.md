@@ -54,7 +54,7 @@ Includes:
 
 * Replication (Push/Pull)
 
-![](/Assets/Arch-2.pdf)
+![replication](/Assets/Arch-2.pdf)
 
 ### Pros
 
