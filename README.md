@@ -51,7 +51,10 @@ Includes:
 ## 1. Distributed Systems
 
 * Data across multiple locations
+
 * Replication (Push/Pull)
+
+![](/Assets/Arch-2.pdf)
 
 ### Pros
 
